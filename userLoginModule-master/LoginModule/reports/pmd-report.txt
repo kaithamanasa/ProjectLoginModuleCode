@@ -1,0 +1,356 @@
+src/main/java/com/cg/loginmodule/LoginModuleApplication.java:13:	CommentRequired: Class comments are required
+src/main/java/com/cg/loginmodule/LoginModuleApplication.java:13:	CommentRequired: Class comments are required
+src/main/java/com/cg/loginmodule/LoginModuleApplication.java:13:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main/java/com/cg/loginmodule/LoginModuleApplication.java:13:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main/java/com/cg/loginmodule/LoginModuleApplication.java:15:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/loginmodule/LoginModuleApplication.java:15:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/loginmodule/LoginModuleApplication.java:15:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/cg/loginmodule/LoginModuleApplication.java:15:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/cg/loginmodule/LoginModuleApplication.java:18:	LocalVariableCouldBeFinal: Local variable 'logger' could be declared final
+src/main/java/com/cg/loginmodule/LoginModuleApplication.java:18:	LocalVariableCouldBeFinal: Local variable 'logger' could be declared final
+src/main/java/com/cg/loginmodule/LoginModuleApplication.java:19:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cg/loginmodule/LoginModuleApplication.java:19:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cg/loginmodule/Myswaggerconfig.java:18:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/cg/loginmodule/Myswaggerconfig.java:18:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/cg/loginmodule/Myswaggerconfig.java:18:	CommentRequired: Class comments are required
+src/main/java/com/cg/loginmodule/Myswaggerconfig.java:18:	CommentRequired: Class comments are required
+src/main/java/com/cg/loginmodule/Myswaggerconfig.java:20:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/loginmodule/Myswaggerconfig.java:20:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:21:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:21:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:21:	CommentRequired: Class comments are required
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:21:	CommentRequired: Class comments are required
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:23:	CommentRequired: Field comments are required
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:23:	CommentRequired: Field comments are required
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:26:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:26:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:26:	CommentRequired: Field comments are required
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:26:	CommentRequired: Field comments are required
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:32:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:32:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:32:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:32:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:32:	MethodArgumentCouldBeFinal: Parameter 'type' is not assigned and could be declared final
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:32:	MethodArgumentCouldBeFinal: Parameter 'type' is not assigned and could be declared final
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:32:	MethodArgumentCouldBeFinal: Parameter 'userId' is not assigned and could be declared final
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:32:	MethodArgumentCouldBeFinal: Parameter 'userId' is not assigned and could be declared final
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:32:	UnnecessaryAnnotationValueElement: Avoid the use of value in annotations when its the only element
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:32:	UnnecessaryAnnotationValueElement: Avoid the use of value in annotations when its the only element
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:32:	UnnecessaryAnnotationValueElement: Avoid the use of value in annotations when its the only element
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:32:	UnnecessaryAnnotationValueElement: Avoid the use of value in annotations when its the only element
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:32:	UnnecessaryAnnotationValueElement: Avoid the use of value in annotations when its the only element
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:32:	UnnecessaryAnnotationValueElement: Avoid the use of value in annotations when its the only element
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:35:	LocalVariableCouldBeFinal: Local variable 'validate' could be declared final
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:35:	LocalVariableCouldBeFinal: Local variable 'validate' could be declared final
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:36:	LocalVariableCouldBeFinal: Local variable 'userValidate' could be declared final
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:36:	LocalVariableCouldBeFinal: Local variable 'userValidate' could be declared final
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:37:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'passwordValidate' (lines '37'-'73').
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:37:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'passwordValidate' (lines '37'-'73').
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:37:	LocalVariableCouldBeFinal: Local variable 'passwordValidate' could be declared final
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:37:	LocalVariableCouldBeFinal: Local variable 'passwordValidate' could be declared final
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:42:	LocalVariableCouldBeFinal: Local variable 'logger' could be declared final
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:42:	LocalVariableCouldBeFinal: Local variable 'logger' could be declared final
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:45:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:45:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:46:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:46:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:47:	CommentSize: Comment is too large: Line too long
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:47:	CommentSize: Comment is too large: Line too long
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:48:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:48:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:50:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:50:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:50:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:50:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:50:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:50:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:52:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:52:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:56:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:56:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:56:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:56:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:63:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:63:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:63:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:63:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:66:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:66:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:66:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:66:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:71:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cg/loginmodule/controller/LoginModuleController.java:71:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cg/loginmodule/entities/LoginData.java:12:	CommentRequired: Class comments are required
+src/main/java/com/cg/loginmodule/entities/LoginData.java:12:	CommentRequired: Class comments are required
+src/main/java/com/cg/loginmodule/entities/LoginData.java:13:	CommentRequired: Field comments are required
+src/main/java/com/cg/loginmodule/entities/LoginData.java:13:	CommentRequired: Field comments are required
+src/main/java/com/cg/loginmodule/entities/LoginData.java:14:	CommentRequired: Field comments are required
+src/main/java/com/cg/loginmodule/entities/LoginData.java:14:	CommentRequired: Field comments are required
+src/main/java/com/cg/loginmodule/entities/LoginData.java:15:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cg/loginmodule/entities/LoginData.java:15:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cg/loginmodule/entities/LoginData.java:15:	CommentRequired: Field comments are required
+src/main/java/com/cg/loginmodule/entities/LoginData.java:15:	CommentRequired: Field comments are required
+src/main/java/com/cg/loginmodule/entities/LoginData.java:20:	MethodArgumentCouldBeFinal: Parameter 'userId' is not assigned and could be declared final
+src/main/java/com/cg/loginmodule/entities/LoginData.java:20:	MethodArgumentCouldBeFinal: Parameter 'userId' is not assigned and could be declared final
+src/main/java/com/cg/loginmodule/entities/LoginData.java:27:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/main/java/com/cg/loginmodule/entities/LoginData.java:27:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/main/java/com/cg/loginmodule/entities/LoginData.java:31:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/loginmodule/entities/LoginData.java:31:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/loginmodule/entities/LoginData.java:34:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/loginmodule/entities/LoginData.java:34:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/loginmodule/entities/LoginData.java:34:	MethodArgumentCouldBeFinal: Parameter 'type' is not assigned and could be declared final
+src/main/java/com/cg/loginmodule/entities/LoginData.java:34:	MethodArgumentCouldBeFinal: Parameter 'type' is not assigned and could be declared final
+src/main/java/com/cg/loginmodule/entities/LoginData.java:41:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/loginmodule/entities/LoginData.java:41:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/loginmodule/entities/LoginData.java:41:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/main/java/com/cg/loginmodule/entities/LoginData.java:41:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/main/java/com/cg/loginmodule/entities/LoginData.java:41:	MethodArgumentCouldBeFinal: Parameter 'type' is not assigned and could be declared final
+src/main/java/com/cg/loginmodule/entities/LoginData.java:41:	MethodArgumentCouldBeFinal: Parameter 'type' is not assigned and could be declared final
+src/main/java/com/cg/loginmodule/entities/LoginData.java:41:	MethodArgumentCouldBeFinal: Parameter 'userId' is not assigned and could be declared final
+src/main/java/com/cg/loginmodule/entities/LoginData.java:41:	MethodArgumentCouldBeFinal: Parameter 'userId' is not assigned and could be declared final
+src/main/java/com/cg/loginmodule/entities/LoginData.java:47:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/loginmodule/entities/LoginData.java:47:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/loginmodule/exceptions/ErrorDetails.java:5:	CommentRequired: Class comments are required
+src/main/java/com/cg/loginmodule/exceptions/ErrorDetails.java:5:	CommentRequired: Class comments are required
+src/main/java/com/cg/loginmodule/exceptions/ErrorDetails.java:6:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cg/loginmodule/exceptions/ErrorDetails.java:6:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cg/loginmodule/exceptions/ErrorDetails.java:6:	CommentRequired: Field comments are required
+src/main/java/com/cg/loginmodule/exceptions/ErrorDetails.java:6:	CommentRequired: Field comments are required
+src/main/java/com/cg/loginmodule/exceptions/ErrorDetails.java:6:	ImmutableField: Private field 'timestamp' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/com/cg/loginmodule/exceptions/ErrorDetails.java:6:	ImmutableField: Private field 'timestamp' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/com/cg/loginmodule/exceptions/ErrorDetails.java:7:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cg/loginmodule/exceptions/ErrorDetails.java:7:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cg/loginmodule/exceptions/ErrorDetails.java:7:	CommentRequired: Field comments are required
+src/main/java/com/cg/loginmodule/exceptions/ErrorDetails.java:7:	CommentRequired: Field comments are required
+src/main/java/com/cg/loginmodule/exceptions/ErrorDetails.java:7:	ImmutableField: Private field 'message' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/com/cg/loginmodule/exceptions/ErrorDetails.java:7:	ImmutableField: Private field 'message' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/com/cg/loginmodule/exceptions/ErrorDetails.java:8:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cg/loginmodule/exceptions/ErrorDetails.java:8:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cg/loginmodule/exceptions/ErrorDetails.java:8:	CommentRequired: Field comments are required
+src/main/java/com/cg/loginmodule/exceptions/ErrorDetails.java:8:	CommentRequired: Field comments are required
+src/main/java/com/cg/loginmodule/exceptions/ErrorDetails.java:8:	ImmutableField: Private field 'details' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/com/cg/loginmodule/exceptions/ErrorDetails.java:8:	ImmutableField: Private field 'details' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/com/cg/loginmodule/exceptions/ErrorDetails.java:10:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/loginmodule/exceptions/ErrorDetails.java:10:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/loginmodule/exceptions/ErrorDetails.java:10:	MethodArgumentCouldBeFinal: Parameter 'details' is not assigned and could be declared final
+src/main/java/com/cg/loginmodule/exceptions/ErrorDetails.java:10:	MethodArgumentCouldBeFinal: Parameter 'details' is not assigned and could be declared final
+src/main/java/com/cg/loginmodule/exceptions/ErrorDetails.java:10:	MethodArgumentCouldBeFinal: Parameter 'message' is not assigned and could be declared final
+src/main/java/com/cg/loginmodule/exceptions/ErrorDetails.java:10:	MethodArgumentCouldBeFinal: Parameter 'message' is not assigned and could be declared final
+src/main/java/com/cg/loginmodule/exceptions/ErrorDetails.java:10:	MethodArgumentCouldBeFinal: Parameter 'timestamp' is not assigned and could be declared final
+src/main/java/com/cg/loginmodule/exceptions/ErrorDetails.java:10:	MethodArgumentCouldBeFinal: Parameter 'timestamp' is not assigned and could be declared final
+src/main/java/com/cg/loginmodule/exceptions/GlobalExceptionHandler.java:16:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/cg/loginmodule/exceptions/GlobalExceptionHandler.java:16:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/cg/loginmodule/exceptions/GlobalExceptionHandler.java:16:	CommentRequired: Class comments are required
+src/main/java/com/cg/loginmodule/exceptions/GlobalExceptionHandler.java:16:	CommentRequired: Class comments are required
+src/main/java/com/cg/loginmodule/exceptions/GlobalExceptionHandler.java:21:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/loginmodule/exceptions/GlobalExceptionHandler.java:21:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/loginmodule/exceptions/GlobalExceptionHandler.java:21:	MethodArgumentCouldBeFinal: Parameter 'ex' is not assigned and could be declared final
+src/main/java/com/cg/loginmodule/exceptions/GlobalExceptionHandler.java:21:	MethodArgumentCouldBeFinal: Parameter 'ex' is not assigned and could be declared final
+src/main/java/com/cg/loginmodule/exceptions/GlobalExceptionHandler.java:21:	MethodArgumentCouldBeFinal: Parameter 'request' is not assigned and could be declared final
+src/main/java/com/cg/loginmodule/exceptions/GlobalExceptionHandler.java:21:	MethodArgumentCouldBeFinal: Parameter 'request' is not assigned and could be declared final
+src/main/java/com/cg/loginmodule/exceptions/GlobalExceptionHandler.java:21:	ShortVariable: Avoid variables with short names like ex
+src/main/java/com/cg/loginmodule/exceptions/GlobalExceptionHandler.java:21:	ShortVariable: Avoid variables with short names like ex
+src/main/java/com/cg/loginmodule/exceptions/GlobalExceptionHandler.java:22:	LocalVariableCouldBeFinal: Local variable 'errorDetails' could be declared final
+src/main/java/com/cg/loginmodule/exceptions/GlobalExceptionHandler.java:22:	LocalVariableCouldBeFinal: Local variable 'errorDetails' could be declared final
+src/main/java/com/cg/loginmodule/exceptions/GlobalExceptionHandler.java:29:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/loginmodule/exceptions/GlobalExceptionHandler.java:29:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/loginmodule/exceptions/GlobalExceptionHandler.java:29:	MethodArgumentCouldBeFinal: Parameter 'ex' is not assigned and could be declared final
+src/main/java/com/cg/loginmodule/exceptions/GlobalExceptionHandler.java:29:	MethodArgumentCouldBeFinal: Parameter 'ex' is not assigned and could be declared final
+src/main/java/com/cg/loginmodule/exceptions/GlobalExceptionHandler.java:29:	MethodArgumentCouldBeFinal: Parameter 'request' is not assigned and could be declared final
+src/main/java/com/cg/loginmodule/exceptions/GlobalExceptionHandler.java:29:	MethodArgumentCouldBeFinal: Parameter 'request' is not assigned and could be declared final
+src/main/java/com/cg/loginmodule/exceptions/GlobalExceptionHandler.java:29:	ShortVariable: Avoid variables with short names like ex
+src/main/java/com/cg/loginmodule/exceptions/GlobalExceptionHandler.java:29:	ShortVariable: Avoid variables with short names like ex
+src/main/java/com/cg/loginmodule/exceptions/GlobalExceptionHandler.java:30:	LocalVariableCouldBeFinal: Local variable 'errorDetails' could be declared final
+src/main/java/com/cg/loginmodule/exceptions/GlobalExceptionHandler.java:30:	LocalVariableCouldBeFinal: Local variable 'errorDetails' could be declared final
+src/main/java/com/cg/loginmodule/exceptions/ResourceNotFoundException.java:9:	UnnecessaryAnnotationValueElement: Avoid the use of value in annotations when its the only element
+src/main/java/com/cg/loginmodule/exceptions/ResourceNotFoundException.java:9:	UnnecessaryAnnotationValueElement: Avoid the use of value in annotations when its the only element
+src/main/java/com/cg/loginmodule/exceptions/ResourceNotFoundException.java:10:	CommentRequired: Class comments are required
+src/main/java/com/cg/loginmodule/exceptions/ResourceNotFoundException.java:10:	CommentRequired: Class comments are required
+src/main/java/com/cg/loginmodule/exceptions/ResourceNotFoundException.java:14:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/loginmodule/exceptions/ResourceNotFoundException.java:14:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/loginmodule/exceptions/ResourceNotFoundException.java:14:	MethodArgumentCouldBeFinal: Parameter 'message' is not assigned and could be declared final
+src/main/java/com/cg/loginmodule/exceptions/ResourceNotFoundException.java:14:	MethodArgumentCouldBeFinal: Parameter 'message' is not assigned and could be declared final
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:8:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:8:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:8:	CommentRequired: Class comments are required
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:8:	CommentRequired: Class comments are required
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:11:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:11:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:11:	MethodArgumentCouldBeFinal: Parameter 'userId' is not assigned and could be declared final
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:11:	MethodArgumentCouldBeFinal: Parameter 'userId' is not assigned and could be declared final
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:13:	LocalVariableCouldBeFinal: Local variable 'regex' could be declared final
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:13:	LocalVariableCouldBeFinal: Local variable 'regex' could be declared final
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:14:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'p' (lines '14'-'21').
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:14:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'p' (lines '14'-'21').
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:14:	LocalVariableCouldBeFinal: Local variable 'p' could be declared final
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:14:	LocalVariableCouldBeFinal: Local variable 'p' could be declared final
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:14:	PrematureDeclaration: Avoid declaring a variable if it is unreferenced before a possible exit point.
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:14:	PrematureDeclaration: Avoid declaring a variable if it is unreferenced before a possible exit point.
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:14:	ShortVariable: Avoid variables with short names like p
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:14:	ShortVariable: Avoid variables with short names like p
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:16:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:16:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:18:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:18:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:18:	LocalVariableCouldBeFinal: Local variable 'm' could be declared final
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:18:	LocalVariableCouldBeFinal: Local variable 'm' could be declared final
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:18:	ShortVariable: Avoid variables with short names like m
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:18:	ShortVariable: Avoid variables with short names like m
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:19:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:19:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:23:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:23:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:23:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:23:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:25:	LocalVariableCouldBeFinal: Local variable 'regex' could be declared final
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:25:	LocalVariableCouldBeFinal: Local variable 'regex' could be declared final
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:29:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'p' (lines '29'-'34').
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:29:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'p' (lines '29'-'34').
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:29:	LocalVariableCouldBeFinal: Local variable 'p' could be declared final
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:29:	LocalVariableCouldBeFinal: Local variable 'p' could be declared final
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:29:	PrematureDeclaration: Avoid declaring a variable if it is unreferenced before a possible exit point.
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:29:	PrematureDeclaration: Avoid declaring a variable if it is unreferenced before a possible exit point.
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:29:	ShortVariable: Avoid variables with short names like p
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:29:	ShortVariable: Avoid variables with short names like p
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:31:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:31:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:33:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:33:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:33:	LocalVariableCouldBeFinal: Local variable 'm' could be declared final
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:33:	LocalVariableCouldBeFinal: Local variable 'm' could be declared final
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:33:	ShortVariable: Avoid variables with short names like m
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:33:	ShortVariable: Avoid variables with short names like m
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:34:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cg/loginmodule/exceptions/UserValidate.java:34:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cg/loginmodule/repostry/LoginRepostry.java:11:	CommentRequired: Class comments are required
+src/main/java/com/cg/loginmodule/repostry/LoginRepostry.java:11:	CommentRequired: Class comments are required
+src/main/java/com/cg/loginmodule/repostry/LoginRepostry.java:18:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/loginmodule/repostry/LoginRepostry.java:18:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/loginmodule/service/LoginModuleService.java:7:	CommentRequired: Class comments are required
+src/main/java/com/cg/loginmodule/service/LoginModuleService.java:7:	CommentRequired: Class comments are required
+src/main/java/com/cg/loginmodule/service/LoginModuleService.java:9:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/loginmodule/service/LoginModuleService.java:9:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/loginmodule/service/LoginModuleService.java:9:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findByID': the method is declared in an interface type
+src/main/java/com/cg/loginmodule/service/LoginModuleService.java:9:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findByID': the method is declared in an interface type
+src/main/java/com/cg/loginmodule/service/LoginModuleServiceImpl.java:13:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/cg/loginmodule/service/LoginModuleServiceImpl.java:13:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/cg/loginmodule/service/LoginModuleServiceImpl.java:13:	CommentRequired: Class comments are required
+src/main/java/com/cg/loginmodule/service/LoginModuleServiceImpl.java:13:	CommentRequired: Class comments are required
+src/main/java/com/cg/loginmodule/service/LoginModuleServiceImpl.java:15:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cg/loginmodule/service/LoginModuleServiceImpl.java:15:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cg/loginmodule/service/LoginModuleServiceImpl.java:15:	CommentRequired: Field comments are required
+src/main/java/com/cg/loginmodule/service/LoginModuleServiceImpl.java:15:	CommentRequired: Field comments are required
+src/main/java/com/cg/loginmodule/service/LoginModuleServiceImpl.java:18:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/loginmodule/service/LoginModuleServiceImpl.java:18:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/loginmodule/service/LoginModuleServiceImpl.java:18:	MethodArgumentCouldBeFinal: Parameter 'userId' is not assigned and could be declared final
+src/main/java/com/cg/loginmodule/service/LoginModuleServiceImpl.java:18:	MethodArgumentCouldBeFinal: Parameter 'userId' is not assigned and could be declared final
+src/main/java/com/cg/loginmodule/service/LoginModuleServiceImpl.java:18:	MissingOverride: The method 'findByID(String)' is missing an @Override annotation.
+src/main/java/com/cg/loginmodule/service/LoginModuleServiceImpl.java:18:	MissingOverride: The method 'findByID(String)' is missing an @Override annotation.
+src/main/java/com/cg/loginmodule/service/LoginModuleServiceImpl.java:19:	LocalVariableCouldBeFinal: Local variable 'logger' could be declared final
+src/main/java/com/cg/loginmodule/service/LoginModuleServiceImpl.java:19:	LocalVariableCouldBeFinal: Local variable 'logger' could be declared final
+src/main/java/com/cg/loginmodule/service/LoginModuleServiceImpl.java:20:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cg/loginmodule/service/LoginModuleServiceImpl.java:20:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/cg/loginmodule/test/LoginModuleControllerTest1.java:25:	UnnecessaryAnnotationValueElement: Avoid the use of value in annotations when its the only element
+src/test/java/com/cg/loginmodule/test/LoginModuleControllerTest1.java:25:	UnnecessaryAnnotationValueElement: Avoid the use of value in annotations when its the only element
+src/test/java/com/cg/loginmodule/test/LoginModuleControllerTest1.java:26:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/cg/loginmodule/test/LoginModuleControllerTest1.java:26:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/cg/loginmodule/test/LoginModuleControllerTest1.java:26:	CommentRequired: Class comments are required
+src/test/java/com/cg/loginmodule/test/LoginModuleControllerTest1.java:26:	CommentRequired: Class comments are required
+src/test/java/com/cg/loginmodule/test/LoginModuleControllerTest1.java:28:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/cg/loginmodule/test/LoginModuleControllerTest1.java:28:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/cg/loginmodule/test/LoginModuleControllerTest1.java:28:	CommentRequired: Field comments are required
+src/test/java/com/cg/loginmodule/test/LoginModuleControllerTest1.java:28:	CommentRequired: Field comments are required
+src/test/java/com/cg/loginmodule/test/LoginModuleControllerTest1.java:30:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/cg/loginmodule/test/LoginModuleControllerTest1.java:30:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/cg/loginmodule/test/LoginModuleControllerTest1.java:30:	CommentRequired: Field comments are required
+src/test/java/com/cg/loginmodule/test/LoginModuleControllerTest1.java:30:	CommentRequired: Field comments are required
+src/test/java/com/cg/loginmodule/test/LoginModuleControllerTest1.java:34:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testValidateUser method if you want a default access modifier
+src/test/java/com/cg/loginmodule/test/LoginModuleControllerTest1.java:34:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testValidateUser method if you want a default access modifier
+src/test/java/com/cg/loginmodule/test/LoginModuleControllerTest1.java:35:	AvoidFinalLocalVariable: Avoid using final local variables, turn them into fields
+src/test/java/com/cg/loginmodule/test/LoginModuleControllerTest1.java:35:	AvoidFinalLocalVariable: Avoid using final local variables, turn them into fields
+src/test/java/com/cg/loginmodule/test/LoginModuleControllerTest1.java:36:	LocalVariableCouldBeFinal: Local variable 'data' could be declared final
+src/test/java/com/cg/loginmodule/test/LoginModuleControllerTest1.java:36:	LocalVariableCouldBeFinal: Local variable 'data' could be declared final
+src/test/java/com/cg/loginmodule/test/LoginModuleControllerTest1.java:40:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'jsonInput' (lines '40'-'47').
+src/test/java/com/cg/loginmodule/test/LoginModuleControllerTest1.java:40:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'jsonInput' (lines '40'-'47').
+src/test/java/com/cg/loginmodule/test/LoginModuleControllerTest1.java:40:	LocalVariableCouldBeFinal: Local variable 'jsonInput' could be declared final
+src/test/java/com/cg/loginmodule/test/LoginModuleControllerTest1.java:40:	LocalVariableCouldBeFinal: Local variable 'jsonInput' could be declared final
+src/test/java/com/cg/loginmodule/test/LoginModuleControllerTest1.java:40:	UnusedLocalVariable: Avoid unused local variables such as 'jsonInput'.
+src/test/java/com/cg/loginmodule/test/LoginModuleControllerTest1.java:40:	UnusedLocalVariable: Avoid unused local variables such as 'jsonInput'.
+src/test/java/com/cg/loginmodule/test/LoginModuleControllerTest1.java:42:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cg/loginmodule/test/LoginModuleControllerTest1.java:42:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cg/loginmodule/test/LoginModuleControllerTest1.java:42:	LocalVariableCouldBeFinal: Local variable 'mvcResult' could be declared final
+src/test/java/com/cg/loginmodule/test/LoginModuleControllerTest1.java:42:	LocalVariableCouldBeFinal: Local variable 'mvcResult' could be declared final
+src/test/java/com/cg/loginmodule/test/LoginModuleControllerTest1.java:43:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/cg/loginmodule/test/LoginModuleControllerTest1.java:43:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/cg/loginmodule/test/LoginModuleControllerTest1.java:43:	LocalVariableCouldBeFinal: Local variable 'mockHttpServletResponse' could be declared final
+src/test/java/com/cg/loginmodule/test/LoginModuleControllerTest1.java:43:	LocalVariableCouldBeFinal: Local variable 'mockHttpServletResponse' could be declared final
+src/test/java/com/cg/loginmodule/test/LoginModuleControllerTest1.java:43:	LongVariable: Avoid excessively long variable names like mockHttpServletResponse
+src/test/java/com/cg/loginmodule/test/LoginModuleControllerTest1.java:43:	LongVariable: Avoid excessively long variable names like mockHttpServletResponse
+src/test/java/com/cg/loginmodule/test/LoginModuleControllerTest1.java:44:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/cg/loginmodule/test/LoginModuleControllerTest1.java:44:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/cg/loginmodule/test/LoginModuleControllerTest1.java:44:	LocalVariableCouldBeFinal: Local variable 'jsonOutput' could be declared final
+src/test/java/com/cg/loginmodule/test/LoginModuleControllerTest1.java:44:	LocalVariableCouldBeFinal: Local variable 'jsonOutput' could be declared final
+src/test/java/com/cg/loginmodule/test/LoginModuleControllerTest1.java:45:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cg/loginmodule/test/LoginModuleControllerTest1.java:45:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cg/loginmodule/test/LoginModuleControllerTest1.java:48:	MethodArgumentCouldBeFinal: Parameter 'data' is not assigned and could be declared final
+src/test/java/com/cg/loginmodule/test/LoginModuleControllerTest1.java:48:	MethodArgumentCouldBeFinal: Parameter 'data' is not assigned and could be declared final
+src/test/java/com/cg/loginmodule/test/LoginModuleControllerTest1.java:49:	LocalVariableCouldBeFinal: Local variable 'objectMapper' could be declared final
+src/test/java/com/cg/loginmodule/test/LoginModuleControllerTest1.java:49:	LocalVariableCouldBeFinal: Local variable 'objectMapper' could be declared final
+src/test/java/com/cg/loginmodule/test/LoginModuleRepostryTest.java:18:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/cg/loginmodule/test/LoginModuleRepostryTest.java:18:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/cg/loginmodule/test/LoginModuleRepostryTest.java:18:	CommentRequired: Class comments are required
+src/test/java/com/cg/loginmodule/test/LoginModuleRepostryTest.java:18:	CommentRequired: Class comments are required
+src/test/java/com/cg/loginmodule/test/LoginModuleRepostryTest.java:20:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/cg/loginmodule/test/LoginModuleRepostryTest.java:20:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/cg/loginmodule/test/LoginModuleRepostryTest.java:20:	CommentRequired: Field comments are required
+src/test/java/com/cg/loginmodule/test/LoginModuleRepostryTest.java:20:	CommentRequired: Field comments are required
+src/test/java/com/cg/loginmodule/test/LoginModuleRepostryTest.java:20:	ShortVariable: Avoid variables with short names like lv
+src/test/java/com/cg/loginmodule/test/LoginModuleRepostryTest.java:20:	ShortVariable: Avoid variables with short names like lv
+src/test/java/com/cg/loginmodule/test/LoginModuleRepostryTest.java:23:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/cg/loginmodule/test/LoginModuleRepostryTest.java:23:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/cg/loginmodule/test/LoginModuleRepostryTest.java:23:	CommentRequired: Field comments are required
+src/test/java/com/cg/loginmodule/test/LoginModuleRepostryTest.java:23:	CommentRequired: Field comments are required
+src/test/java/com/cg/loginmodule/test/LoginModuleRepostryTest.java:27:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the validateUserData method if you want a default access modifier
+src/test/java/com/cg/loginmodule/test/LoginModuleRepostryTest.java:27:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the validateUserData method if you want a default access modifier
+src/test/java/com/cg/loginmodule/test/LoginModuleRepostryTest.java:29:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'flag' (lines '29'-'40').
+src/test/java/com/cg/loginmodule/test/LoginModuleRepostryTest.java:29:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'flag' (lines '29'-'40').
+src/test/java/com/cg/loginmodule/test/LoginModuleRepostryTest.java:30:	LocalVariableCouldBeFinal: Local variable 'data' could be declared final
+src/test/java/com/cg/loginmodule/test/LoginModuleRepostryTest.java:30:	LocalVariableCouldBeFinal: Local variable 'data' could be declared final
+src/test/java/com/cg/loginmodule/test/LoginModuleRepostryTest.java:36:	ShortVariable: Avoid variables with short names like v
+src/test/java/com/cg/loginmodule/test/LoginModuleRepostryTest.java:36:	ShortVariable: Avoid variables with short names like v
+src/test/java/com/cg/loginmodule/test/LoginModuleRepostryTest.java:38:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cg/loginmodule/test/LoginModuleRepostryTest.java:38:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cg/loginmodule/test/LoginModuleRepostryTest.java:38:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cg/loginmodule/test/LoginModuleRepostryTest.java:38:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cg/loginmodule/test/LoginModuleRepostryTest.java:38:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cg/loginmodule/test/LoginModuleRepostryTest.java:38:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cg/loginmodule/test/LoginModuleRepostryTest.java:38:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/cg/loginmodule/test/LoginModuleRepostryTest.java:38:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/cg/loginmodule/test/LoginModuleRepostryTest.java:38:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/cg/loginmodule/test/LoginModuleRepostryTest.java:38:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/cg/loginmodule/test/LoginModuleRepostryTest.java:38:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/cg/loginmodule/test/LoginModuleRepostryTest.java:38:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/cg/loginmodule/test/LoginModuleRepostryTest.java:38:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/test/java/com/cg/loginmodule/test/LoginModuleRepostryTest.java:38:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/test/java/com/cg/loginmodule/test/LoginModuleRepostryTest.java:42:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/cg/loginmodule/test/LoginModuleRepostryTest.java:42:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/cg/loginmodule/test/LoginModuleServiceTest.java:20:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/cg/loginmodule/test/LoginModuleServiceTest.java:20:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/cg/loginmodule/test/LoginModuleServiceTest.java:20:	CommentRequired: Class comments are required
+src/test/java/com/cg/loginmodule/test/LoginModuleServiceTest.java:20:	CommentRequired: Class comments are required
+src/test/java/com/cg/loginmodule/test/LoginModuleServiceTest.java:22:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/cg/loginmodule/test/LoginModuleServiceTest.java:22:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/cg/loginmodule/test/LoginModuleServiceTest.java:22:	CommentRequired: Field comments are required
+src/test/java/com/cg/loginmodule/test/LoginModuleServiceTest.java:22:	CommentRequired: Field comments are required
+src/test/java/com/cg/loginmodule/test/LoginModuleServiceTest.java:25:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/cg/loginmodule/test/LoginModuleServiceTest.java:25:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/cg/loginmodule/test/LoginModuleServiceTest.java:25:	CommentRequired: Field comments are required
+src/test/java/com/cg/loginmodule/test/LoginModuleServiceTest.java:25:	CommentRequired: Field comments are required
+src/test/java/com/cg/loginmodule/test/LoginModuleServiceTest.java:29:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the validateUserData method if you want a default access modifier
+src/test/java/com/cg/loginmodule/test/LoginModuleServiceTest.java:29:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the validateUserData method if you want a default access modifier
+src/test/java/com/cg/loginmodule/test/LoginModuleServiceTest.java:31:	LocalVariableCouldBeFinal: Local variable 'data' could be declared final
+src/test/java/com/cg/loginmodule/test/LoginModuleServiceTest.java:31:	LocalVariableCouldBeFinal: Local variable 'data' could be declared final
+src/test/java/com/cg/loginmodule/test/LoginModuleServiceTest.java:35:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cg/loginmodule/test/LoginModuleServiceTest.java:35:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cg/loginmodule/test/LoginModuleServiceTest.java:36:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cg/loginmodule/test/LoginModuleServiceTest.java:36:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
